@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "sparseSVM"]
 	path = sparseSVM
 	url = https://github.com/cy-dev/sparsesvm
-	shallow = true
-	registered = true
