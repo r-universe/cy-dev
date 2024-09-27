@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "hqreg"]
+	path = hqreg
+	url = https://github.com/cy-dev/hqreg
 [submodule "sparseSVM"]
 	path = sparseSVM
 	url = https://github.com/cy-dev/sparsesvm
